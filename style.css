@@ -132,6 +132,19 @@ figcaption {
 #contact-section {
   flex-direction: column;
   height: 200px;
+  width: 100%;
   text-align: center;
-  line-height: 100px;
+}
+
+#contact-section h2 {
+  line-height: 1px;
+}
+
+#contact-section h5 {
+  line-height: 50px;
+}
+
+#copyright {
+  text-align: left;
+  margin-left: 20px;
 }
